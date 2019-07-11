@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ALC Challenge</string>
+    <string name="title_activity_alcwebview">Alcwebview</string>
+    <string name="todo">todo</string>
+    <string name="name_denis_muthomi">Name : Denis Muthomi</string>
+    <string name="track_android">Track : Android</string>
+    <string name="phone_no_254717936712">Phone no : +254717936712</string>
+    <string name="country_kenya">Country : Kenya</string>
+    <string name="email_muthomidenis62_gmail_com">Email : muthomidenis62@gmail.com</string>
+</resources>
